@@ -1,0 +1,801 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2244
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(Royal Stay Hotel Management Website) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(Kaustubh Bendre ) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(9/02/2026) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(17/02/2026) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(Many small hotels still manage bookings manually \(register books or phone calls\). This causes:-) Tj
+T* (• Double bookings) Tj
+T* (• Data loss) Tj
+T* (• Slow customer service) Tj
+T* (• No proper online presence) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 225.354566929133739 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 194.1734645669290558 Td
+(• Hotel Owners) Tj
+T* (• Hotel Staff) Tj
+T* (• Customers who want easy online booking) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 119.0553543307086102 Td
+(How did I find out about this?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 87.8742519685038133 Td
+(Interviews, AI Tools, Online Research, Observation) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2705
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 2: Problem Statement) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(Small and medium hotels need a simple, affordable, and user-friendly website system to manage) Tj
+T* (rooms and bookings efficiently.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 663.3073228346456744 Td
+(• Improves business efficiency.) Tj
+T* (• Reduces manual errors.) Tj
+T* (• Builds professional online presence.) Tj
+T* (• Enhances customer experience.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 572.5986614173227736 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 541.4175590551180903 Td
+(• Simple UI is very important.) Tj
+T* (• Fast booking system increases customer trust.) Tj
+T* (• Database integration makes the system powerful.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 466.2994488188975879 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 432.2837007874015285 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 401.1025984251967884 Td
+(1. • Basic static hotel website \(only information, no booking system\).) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 371.3388188976377364 Td
+(2. • Website with contact form for booking inquiry.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 341.5750393700786844 Td
+(3. • Full hotel booking system with database.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 311.8112598425195756 Td
+(4. • Mobile app for hotel booking.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 282.0474803149605805 Td
+(5. • Cloud-based hotel management system.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 238.1104724409448181 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 206.9293700787401349 Td
+(Full Hotel Management Website with Booking System and Admin Panel.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 162.9923622047243725 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 131.8112598425195756 Td
+(• Shows frontend + backend skills) Tj
+T* (• Uses database \(DBMS knowledge\)) Tj
+T* (• Good for IT interviews) Tj
+T* (• Looks professional in resume) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2163
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 751.1813385826771992 Td
+(Step 6: What will my solution look like?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 720.0002362204724022 Td
+(A responsive hotel website with:) Tj
+T* (• Home page) Tj
+T* (• Rooms page) Tj
+T* (• About Us page) Tj
+T* (• Contact page) Tj
+T* (• Admin Login) Tj
+T* (• Add / Update / Delete Rooms) Tj
+T* (• Customer Booking Form) Tj
+T* () Tj
+T* (MySQL Database integration) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 535.748267716535338 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 504.5671653543306547 Td
+(• ChatGPT \(Code guidance\)) Tj
+T* (• Canva \(Logo design\)) Tj
+T* (• VS Code \(Development\)) Tj
+T* (• MySQL Workbench) Tj
+T* (• Bootstrap) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 398.2679527559054691 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 367.086850393700729 Td
+(1. • HTML – Structure) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 337.323070866141677 Td
+(2. • CSS / Bootstrap – Styling) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 307.559291338582625 Td
+(3. • JavaScript – Interactivity) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 277.7955118110235162 Td
+(4. • PHP – Backend logic) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 248.0317322834645211 Td
+(5. • MySQL – Database) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 204.0947244094487587 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 158.7403937007873083 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 127.559291338582625 Td
+(• Classmates / • Friends / • Self-testing) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 83.6222834645668627 Td
+(What works well:) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2346
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(• Responsive design) Tj
+T* (• Easy booking system) Tj
+T* (• Admin can manage rooms) Tj
+T* (• Clean user interface) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 663.3073228346456744 Td
+(• Add payment gateway) Tj
+T* (• Add email confirmation) Tj
+T* (• Improve UI animations) Tj
+T* (• Add customer login system) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 572.5986614173227736 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 538.5829133858267141 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 507.4018110236219741 Td
+(Royal Stay Hotel – Online Booking & Management System) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 463.4648031496062686 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 432.2837007874015285 Td
+(Royal Stay Hotel Management Website is a full-stack web application designed to help small hotels) Tj
+T* (manage room bookings digitally. It allows customers to view rooms and book online, while admins) Tj
+T* (can add, update, and manage room details. This project demonstrates my frontend development) Tj
+T* (skills, backend integration, and database management knowledge.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 341.5750393700786844 Td
+(Step 9: Reflections) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 296.220708661417234 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 265.0396062992125508 Td
+(• Designing the website layout) Tj
+T* (• Creating database tables) Tj
+T* (• Connecting frontend with backend) Tj
+T* (• Seeing real-time booking data stored in database) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 174.3309448818896499 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 143.1498425196849666 Td
+(• Connecting PHP with MySQL) Tj
+T* () Tj
+T* (• Handling form validation) Tj
+T* () Tj
+T* (• Managing database relationships) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 264
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(https://stay-sweetly-project.lovable.app/) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260227100059+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000010686 00000 n 
+0000012533 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002448 00000 n 
+0000002585 00000 n 
+0000005342 00000 n 
+0000005479 00000 n 
+0000007694 00000 n 
+0000007832 00000 n 
+0000010231 00000 n 
+0000010370 00000 n 
+0000010768 00000 n 
+0000010894 00000 n 
+0000011025 00000 n 
+0000011159 00000 n 
+0000011297 00000 n 
+0000011421 00000 n 
+0000011550 00000 n 
+0000011682 00000 n 
+0000011818 00000 n 
+0000011946 00000 n 
+0000012073 00000 n 
+0000012202 00000 n 
+0000012335 00000 n 
+0000012437 00000 n 
+0000012786 00000 n 
+0000012872 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <D238AF10461C27D1D354729084FFD175> <D238AF10461C27D1D354729084FFD175> ]
+>>
+startxref
+12976
+%%EOF
